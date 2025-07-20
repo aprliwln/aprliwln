@@ -1,4 +1,4 @@
-<h1 align = "center">Hi there! I'm ˏˋ✩ <span style="color: #C4A484">April</span>°•*☾</h1>
+<h1 align = "center">Hi there! I'm ˏˋ✩ April°•*☾</h1>
 <p align = "center">Informatics student · Tech & Design Enthusiast · Lifelong Learner</p>
 
 ---
